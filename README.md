@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Yuri Carmo!!
 
-🚀 E sou apaixonado por tecnologia e em constante aprendizado! Sou um explorador das maravilhas da nuvem e fã de JavaScript, PHP e Python.
+🚀 Apaixonado por tecnologia e em constante aprendizado! Sou um explorador das maravilhas da nuvem e fã de JavaScript, PHP e Python.
 
 <div style="display: inline_block">
   <img align="center" alt="Yuri-python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
