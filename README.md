@@ -23,7 +23,7 @@
 
 💻 Além disso, mando bem com Git, atuei com Jenkins, e meu mantra é Clean Code e SOLID. Curto Code Reviews e implementar CI/CD eficiente. Testes unitários, não podem faltar! Object Calisthenics, opa! Acho show de bola!
 
-📚 Meu kit de habilidades inclui JavaScript, TypeScript, NestJS, Node.js, Python, Zeebe, Camunda, e uma série de outras tecnologias. Estou sempre aprendendo e atualmente explorando a magia do backend em Python, me aventurando com Go Lang e me aprimorando em React, NextJS e tecnologias de nuvem como Kubernetes, RabbitMQ, AWS SQS, AWS SNS, Kafka, entre outras.
+📚 Meu kit de habilidades inclui JavaScript, TypeScript, NestJS, Node.js, Python, Zeebe, Camunda, e uma série de outras tecnologias. Estou sempre aprendendo e atualmente explorando a magia do backend em Python, me aventurando com Go Lang e me aprimorando em React, NextJS e tecnologias como Kubernetes, RabbitMQ, AWS SQS, AWS SNS, Kafka, entre outras.
 
 👨‍🎓 Formações extras incluem cursos como VueJS 3, API com NestJS e TypeScript, e PHP avançado. Estou sempre na busca pelo conhecimento!
 
