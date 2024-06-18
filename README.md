@@ -28,7 +28,6 @@ Nos meus projetos, concentro-me em aspectos que considero fundamentais para o de
   ☁️ Integração com Cloud e Serviços: Uso de AWS Lambda, Serverless Framework e outras tecnologias de nuvem para criar soluções robustas, escaláveis e flexíveis.
   
   🚀 Práticas Modernas de Desenvolvimento: Uso de Docker, aplicação de testes unitários e de integração com Jest, além de produzir documentação detalhada para assegurar a qualidade e manutenibilidade do código.
-
 ##
 
 Para mais detalhes sobre meu perfil, pode conferir em minhas experiências no meu LinkedIn:
