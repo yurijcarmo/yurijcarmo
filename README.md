@@ -19,6 +19,8 @@
 
 🎓 Formado em Tecnologia em Sistemas de Computação pela UFF, onde construí uma sólida base para soluções tecnológicas inovadoras.
 
+----
+
 Nos meus projetos, concentro-me em aspectos que considero fundamentais para o desenvolvimento de soluções eficazes e inovadoras:
   
   🔧 Design e Arquitetura de APIs: Implementação de estruturas bem definidas utilizando padrões como MVC e DDD para garantir organização, escalabilidade e manutenção eficiente.
