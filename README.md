@@ -27,7 +27,7 @@ Nos meus projetos, concentro-me em aspectos que considero fundamentais:
 
 ☁️ **Cloud e Integrações:** AWS (SQS, Lambda, EKS, S3, API Gateway), ArgoCD, Terraform e Kubernetes para soluções robustas e escaláveis.
 
-📱 **Frontend Mobile:** Desenvolvimento de jornadas mobile com SDUI/React Native, incluindo atuação com Hitmaker, framework interno da PicPay.
+📱 **Frontend Mobile:** Desenvolvimento de jornadas mobile com React Native e SDUI (Hitmaker, framework interno da PicPay), com integração a APIs/BFFs e foco em experiência do usuário.
 
 🚀 **Práticas Modernas:** Docker, CI/CD, testes unitários e de integração (Jest, JUnit, PHPUnit), observabilidade com Dynatrace, Datadog e CloudWatch.
 
