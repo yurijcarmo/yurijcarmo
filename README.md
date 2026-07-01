@@ -1,6 +1,6 @@
-### Olá, Eu sou o Yuri Carmo!!
+### Olá, eu sou o Yuri Carmo! 👋
 
-🚀 Apaixonado por tecnologia e em constante aprendizado! Sou um explorador das maravilhas da nuvem e fã de JavaScript, PHP e Python.
+🚀 Engenheiro de Software apaixonado por tecnologia, arquitetura de sistemas e soluções em nuvem. Sempre aprendendo, sempre entregando.
 
 <div style="display: inline_block">
   <img align="center" alt="Yuri-python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
@@ -13,24 +13,27 @@
 
 ##
 
-### Resumo Profissional:
+### Resumo Profissional
 
-👨‍💻 Engenheiro de Software e Desenvolvedor Full Stack com mais de 10 anos de experiência, mergulhado de cabeça nas tecnologias como NodeJS, Vue.js, PHP, Laravel, Docker, e afins.
+👨‍💻 Engenheiro de Software e Desenvolvedor Full Stack com mais de 15 anos de experiência, atuando com Node.js, Kotlin, TypeScript, PHP, React Native, e muito mais.
 
-🎓 Formado em Tecnologia em Sistemas de Computação pela UFF, onde construí uma sólida base para soluções tecnológicas inovadoras.
+🎓 Formado em Tecnologia em Sistemas de Computação pela UFF, com pós-graduação em DevOps e Arquitetura Cloud pela FIAP em fase de conclusão.
 
 ##
 
-Nos meus projetos, concentro-me em aspectos que considero fundamentais para o desenvolvimento de soluções eficazes e inovadoras:
-  
-  🔧 Design e Arquitetura de APIs: Implementação de estruturas bem definidas utilizando padrões como MVC e DDD para garantir organização, escalabilidade e manutenção eficiente.
-  
-  ☁️ Integração com Cloud e Serviços: Uso de AWS Lambda, Serverless Framework e outras tecnologias de nuvem para criar soluções robustas, escaláveis e flexíveis.
-  
-  🚀 Práticas Modernas de Desenvolvimento: Uso de Docker, aplicação de testes unitários e de integração com Jest, além de produzir documentação detalhada para assegurar a qualidade e manutenibilidade do código.
+Nos meus projetos, concentro-me em aspectos que considero fundamentais:
+
+🔧 **Arquitetura e Design de Sistemas:** Microsserviços, BFF, Clean Architecture, DDD e SOLID, garantindo escalabilidade, organização e manutenibilidade.
+
+☁️ **Cloud e Integrações:** AWS (SQS, Lambda, EKS, S3, API Gateway), ArgoCD, Terraform e Kubernetes para soluções robustas e escaláveis.
+
+📱 **Frontend Mobile:** Desenvolvimento de jornadas mobile com SDUI/React Native, incluindo atuação com Hitmaker, framework interno da PicPay.
+
+🚀 **Práticas Modernas:** Docker, CI/CD, testes unitários e de integração (Jest, JUnit, PHPUnit), observabilidade com Dynatrace, Datadog e CloudWatch.
+
 ##
 
-Para mais detalhes sobre meu perfil, pode conferir em minhas experiências no meu LinkedIn:
+Para mais detalhes, confira meu LinkedIn: 
 
 <a href="https://www.linkedin.com/in/yuri-carmo/" rel="nofollow" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
